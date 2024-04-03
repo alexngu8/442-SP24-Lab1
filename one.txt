@@ -1,4 +1,4 @@
 Hi everyone welcome to INFO 442.
 Merge conflicts are very annoying and only scometimes scary! Sora
 Hopefully rebasing can help!
-Sora omi
+Sora omi How
